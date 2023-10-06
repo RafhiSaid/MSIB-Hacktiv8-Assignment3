@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "https://banner2.cleanpng.com/20180403/lrw/kisspng-santa-cruz-bicycles-santa-cruz-bicycles-downhill-m-lime-frame-5ac39d69c7bbe5.4194424015227692578181.jpg",
+      "name": "Biru",
+      "price": 75000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "id": 2,
+      "product": "https://banner2.cleanpng.com/20180405/tae/kisspng-santa-cruz-bicycles-santa-cruz-bicycles-cycling-mo-yellow-frame-5ac5fe41995930.9798758315229251216281.jpg",
+      "name": "Merah",
+      "price": 63000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "id": 3,
+      "product": "https://banner2.cleanpng.com/20180407/lfw/kisspng-santa-cruz-syndicate-santa-cruz-bicycles-downhill-cruz-5ac87f21604a62.3717438915230891853944.jpg",
+      "name": "Hitam Putih",
+      "price": 65000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "id": 4,
+      "product": "https://banner2.cleanpng.com/20180407/whw/kisspng-santa-cruz-syndicate-santa-cruz-bicycles-downhill-cruz-5ac8ac78407aa6.4773016615231007922641.jpg",
+      "name": "Hitam",
+      "price": 60000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "id": 5,
+      "product": "https://banner2.cleanpng.com/20180624/brg/kisspng-downhill-mountain-biking-downhill-bike-santa-cruz-santa-cruz-syndicate-5b2f2fcac07aa4.2000529715298190827884.jpg",
+      "name": "Merah Hitam",
+      "price": 75000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "id": 6,
+      "product": "https://banner2.cleanpng.com/20180625/bq/kisspng-santa-cruz-bicycles-mountain-bike-downhill-bike-hero-bike-5b316f7a65d6f0.4894979215299664584171.jpg",
+      "name": "Abu Abu",
+      "price": 75000000,
+      "description": "Sepeda Gunung, mari jelajahi gunung"
+    },
+    {
+      "product": "https://banner2.cleanpng.com/20180315/cbw/kisspng-bantam-santa-cruz-bicycles-santa-cruz-bicycles-cyc-bicycle-png-clipart-5aaa12f7c63496.1373704215210954158119.jpg",
+      "name": "Ungu",
+      "price": "60000000",
+      "description": "Sepeda Gunung Santai",
+      "id": 7
+    },
+    {
+      "product": "https://banner2.cleanpng.com/20180526/akw/kisspng-santa-cruz-bicycles-santa-cruz-bronson-mountain-bi-5b090a48a57174.0857167415273191126777.jpg",
+      "name": "Hitam Kuning",
+      "price": "64000000",
+      "description": "Sepeda Gunung, mari jelajahi gunung",
+      "id": 8
+    },
+    {
+      "product": "https://banner2.cleanpng.com/20180405/ilw/kisspng-santa-cruz-syndicate-santa-cruz-bicycles-cycling-2-bicycles-5ac627e3aafe45.0519591915229357797004.jpg",
+      "name": "Hijau",
+      "price": "73000000",
+      "description": "Sepeda Gunung, mari jelajahi gunung",
+      "id": 9
+    },
+    {
+      "product": "https://banner2.cleanpng.com/20180409/vcq/kisspng-santa-cruz-bicycles-santa-cruz-bicycles-mountain-b-cruz-5acb319537fa25.2429945415232659412293.jpg",
+      "name": "Oren",
+      "price": "63000000",
+      "description": "Sepeda Gunung, mari jelajahi gunung",
+      "id": 10
+    }
+  ]
+}
